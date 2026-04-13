@@ -10,11 +10,8 @@
   <b>About me</b>
   <br><br>
   <p align="justify">
-  Chilean developer 🇨🇱 focused on building clean, scalable web systems. Currently transitioning into Cloud & DevOps — this profile is where I document that journey.
+  Chilean developer 🇨🇱 focused on building software and scalable web systems. Currently transitioning into Cloud & DevOps — this profile is where I document that journey.
   <br><br>
-  🔭 <b>Now:</b> Full-stack lead on an E-commerce ecosystem at <b>Netgraf.cl</b><br>
-  🌱 <b>Learning:</b> Cloud infrastructure, DevOps tooling, and Linux internals<br>
-  🛠️ <b>Stack:</b> Laravel · Nuxt · Vue · PostgreSQL · Docker · Linux
 </p>
 </div>
 
