@@ -1,5 +1,5 @@
-<h1 align="center">Hola, soy Javier Pino <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">Web Developer | Student @ UCSC | Transitioning to Cloud & DevOps 🚀</h3>
+<h1 align="center">Hi, I am Javier Pino <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h3 align="center"> For now Developing things | Student @ UCSC | Future DevSecOps & Cloud Arquitect</h3>
 
 <br>
 
@@ -7,28 +7,24 @@
   <img align="right" width="250px" src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" alt="Linux Tux" />
   
   <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
-  <b>Sobre mí</b>
+  <b>About me</b>
   <br><br>
   <p align="justify">
-    Soy un desarrollador chileno 🇨🇱 apasionado por crear soluciones web escalables. Me gusta transformar requerimientos complejos en código limpio. Combino mi formación académica con <b>experiencia real</b> desarrollando productos digitales.
-    <br><br>
-    🔭 <b>Actualmente:</b> Liderando el desarrollo full-stack de un ecosistema E-commerce para <b>Netgraf.cl</b>.
-    <br>
-    💼 <b>Experiencia previa:</b> Soluciones web para <b>Aquaflow.cl</b> y <b>Vetcodex.cl.</b>
-    <br><br>
-    Hablo varios idiomas (Español, Inglés, Alemán, Portugués) y disfruto aprendiendo nuevos lenguajes de programación y tecnologías.
-    <br>
-    Siempre busco nuevos retos. Si te interesa colaborar o saber más sobre mi trabajo, ¡contáctame! 🚀
-  </p>
+  Chilean developer 🇨🇱 focused on building clean, scalable web systems. Currently transitioning into Cloud & DevOps — this profile is where I document that journey.
+  <br><br>
+  🔭 <b>Now:</b> Full-stack lead on an E-commerce ecosystem at <b>Netgraf.cl</b><br>
+  🌱 <b>Learning:</b> Cloud infrastructure, DevOps tooling, and Linux internals<br>
+  🛠️ <b>Stack:</b> Laravel · Nuxt · Vue · PostgreSQL · Docker · Linux
+</p>
 </div>
 
 <br clear="all">
 
-<h3 align="center">🛠️ Tecnologías y Herramientas</h3>
+<h3 align="center">🛠️ Tech stack</h3>
 
 <div align="center">
 
-<h4>Lenguajes</h4>
+<h4>Languages</h4>
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
@@ -38,7 +34,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-<h4>Frameworks & Ecosistema</h4>
+<h4>Frameworks & Ecosystems</h4>
 <p>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82" alt="Nuxt" />
@@ -46,13 +42,13 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </p>
 
-<h4>Bases de Datos</h4>
+<h4>DataBase</h4>
 <p>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
-<h4>Herramientas & Entorno</h4>
+<h4>Other</h4>
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -66,7 +62,7 @@
 
 <h2 align="center">
   <img src="https://media.tenor.com/images/7e96d994f29b388f63f7aa77ff2bea78/tenor.gif" width="25">
-  <b>Contacto 📫</b>
+  <b>Contact 📫</b>
 </h2>
 
 <div align="center">
@@ -78,10 +74,10 @@
 <hr>
 
 <details>
-  <summary><b style="font-size: 18px;">⚙️ Mi Setup (Click para desplegar)</b></summary>
+  <summary><b style="font-size: 18px;">⚙️ My Setup (Click to see)</b></summary>
   <br>
   <div align="center">
-    <i>"Soy un entusiasta del Open Source y la customización. This is my setup:"</i>
+    <i>"I'm an Open Source enthusiast and customization. This is my setup:"</i>
   </div>
   <br>
   
@@ -121,10 +117,10 @@
 <br>
 
 <div align="center">
-  <p>¡Gracias por tu visita!</p>
+  <p>¡Thanks for your visit!</p>
   <img src="https://i.imgur.com/obojRZ5.gif">
 </div>
 
 <div align="center">
-  <p><i>"Si lo puedes imaginar, lo puedes programar" - Alejandro Taboada</i></p>
+  <p><i>"Software is like sex: it's better when it's free" - Linus Torvalds</i></p>
 </div>
