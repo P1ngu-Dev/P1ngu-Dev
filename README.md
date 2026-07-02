@@ -1,102 +1,42 @@
-<h1 align="center">Hi, I am Javier Pino <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">Web developer, Linux enthusiast, and future DevSecOps / Cloud builder.</h3>
+# Javier Pino
 
-<br><br>
+Software developer from Chile with a software engineering mindset. I like building useful software, working with Linux and open source, and exploring AI-driven development in a practical way.
 
-<div>
-  <img align="right" width="350px" src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" alt="Linux Tux" />
-  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
-  <b>About me</b>
-<br><br>
-<p align="justify">
-  Chilean developer focused on building clean, scalable web systems.
-  I'm currently moving deeper into Linux, DevOps, Cloud, and security-minded engineering —
-  this profile is where I share that progression through projects, experiments, and notes.
-</p>
+## What I enjoy building
 
-<br>
+- Software that solves real problems
+- Clean, maintainable web apps and tools
+- Linux-based workflows and open source projects
+- Thoughtful use of AI as part of development
+- Things that are useful beyond the demo stage
 
-  <b>Current focus</b>
-  <br>
-  <ul>
-    <li>Building production-ready web projects with better architecture.</li>
-    <li>Learning Docker, CI/CD, Linux internals, and cloud fundamentals.</li>
-    <li>Exploring DevSecOps practices and automation workflows.</li>
-    <li>Turning what I learn into public repositories and practical tools.</li>
-  </ul>
-</div>
+## Selected work
 
-<br clear="all">
+- [Donde-Ayudo-CL](https://github.com/P1ngu-Dev/Donde-Ayudo-CL) — offline-first map for aid centers and emergency support during the Penco fires.
+- [Netgraf](https://github.com/P1ngu-Dev/Netgraf) — end-to-end e-commerce platform for a real client, with admin flows, payments, emails, SEO, and Dockerized deployment.
+- [AquaFlow](https://github.com/P1ngu-Dev/Aquaflow) — turned a static site into a quoting flow with PDF generation inside an existing PHP stack.
+- [CV-Template](https://github.com/P1ngu-Dev/CV-Template) — a RenderCV-based CV template repo for keeping application materials consistent and current.
+- [cloud-resume-challenge](https://github.com/P1ngu-Dev/cloud-resume-challenge) — serverless resume site on AWS with Terraform and GitHub Actions.
+- [termifun](https://github.com/P1ngu-Dev/termifun) — CLI launcher for discovering and running terminal tools.
+- [covid19-epidemiological-analysis](https://github.com/P1ngu-Dev/covid19-epidemiological-analysis) — Python/Pandas exploratory analysis and dashboards.
+- [JobScrapper-Chile](https://github.com/P1ngu-Dev/JobScrapper-Chile) — Chile-focused job scouting / scraping tooling.
+- [dotfiles](https://github.com/P1ngu-Dev/dotfiles) — personal Arch Linux configuration and setup.
 
-<h2 align="center">🛠️ Stack</h2>
+## Open source and tooling
 
-<p align="center">
-  Laravel · Nuxt · React · Vue · PHP · JavaScript · Python · PostgreSQL · MySQL · Docker · Linux
-</p>
+- Hyprland patches and setup work
+- ECC-spanish, where I helped kick off the Spanish documentation effort
+- Small tools, scripts, and workflow experiments that I actually use day to day
 
-<br>
+## Tech I use
 
-<h2 align="center">
-  <img src="https://media.tenor.com/images/7e96d994f29b388f63f7aa77ff2bea78/tenor.gif" width="25">
-  <b>Contact 📫</b>
-</h2>
+Python · Bash · JavaScript · HTML/CSS · Go · PHP · C / C++ · Rust · Docker · Git/GitHub · Linux
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/javier-pino-herrera-867843335/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  
-  <a href="mailto:jpinoh01@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</div>
+## Contact
 
-<br>
-<hr>
+- LinkedIn: [javier-pino-herrera-867843335](https://linkedin.com/in/javier-pino-herrera-867843335)
+- Email: [jpinoh01@gmail.com](mailto:jpinoh01@gmail.com)
 
-<details>
-  <summary><b style="font-size: 18px;">⚙️ My Setup (Click to see)</b></summary>
-  <br>
-  <div align="center">
-    <i>"I'm an Open Source enthusiast and customization. This is my setup:"</i>
-  </div>
-  <br>
-  
-  <table align="center">
-    <tr>
-      <td valign="top" width="50%">
-        <h4 align="center">🐧 Software / Dotfiles</h4>
-        <div align="center">
-          <img src="https://img.shields.io/badge/OS-Arch-1793D1?style=flat-square&logo=archlinux&logoColor=white" />
-          <br>
-          <img src="https://img.shields.io/badge/WM-Hyprland-00A4A4?style=flat-square&logo=hyprland&logoColor=white" />
-          <br>
-          <img src="https://img.shields.io/badge/Terminal-Kitty_&_Zsh-905C44?style=flat-square&logo=educative&logoColor=white" />
-          <br>
-          <img src="https://img.shields.io/badge/Editor-Nvim--333333?style=flat-square&logo=neovim&logoColor=white" />
-        </div>
-      </td>
-      <td valign="top" width="50%">
-        <h4 align="center">🖥️ Hardware</h4>
-        <div align="center">
-          <img src="https://img.shields.io/badge/CPU-Ryzen_7_5700X-EF2D5E?style=flat-square&logo=amd&logoColor=white" />
-          <br>
-          <img src="https://img.shields.io/badge/GPU-RX_7800_XT-FF4500?style=flat-square&logo=amd&logoColor=white" />
-          <br>
-          <img src="https://img.shields.io/badge/RAM-32GB_DDR4-0057ff?style=flat-square&logo=corsair&logoColor=white" />
-          <br>
-          <img src="https://img.shields.io/badge/SSD-1,5TB_NVMe_M.2-444444?style=flat-square&logo=samsung&logoColor=white" />
-           <br>
-          <img src="https://img.shields.io/badge/Keyboard-Custom_Mechanical-333333?style=flat-square&logo=mechanical-keyboard&logoColor=white" />
-        </div>
-      </td>
-    </tr>
-  </table>
-</details>
+---
 
-<hr>
-<br>
-
-<div align="center">
-  <p>¡Thanks for your visit!</p>
-  <img src="https://i.imgur.com/obojRZ5.gif">
-</div>
-
-<div align="center">
-  <p><i>"Software is like sex: it's better when it's free" - Linus Torvalds</i></p>
-</div>
+If you want to see what I'm building right now, check the pinned repos above or browse the rest of my profile.
